@@ -9,3 +9,10 @@ git add .
 git commit -m "commit inicial"
 git remote add origin ##Link do repositório
 git push
+git reflog
+git reset --hard 
+git branch
+git branch name staging
+git checkout staging
+git pull
+git merge
